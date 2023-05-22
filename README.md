@@ -1,5 +1,6 @@
 ## About HousePricePredictor
-- This machine learning project invovles predicting prices of house.
+- This machine learning project involves predicting prices of house.
+- The model is build using Linear Regression Algorithm.
 - The price is predicted on the basis of "Locality", "Total Area", "BHK" and "Bathroom".
 - Usually we predict prices in a particular city but with this project one can predict prices in THREE different cities.
 - These cities are "Bangalore", "Delhi" and "Pune".
